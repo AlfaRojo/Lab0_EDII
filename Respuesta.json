@@ -34,8 +34,8 @@ Get:
 
 Post:
 {
-    "type": "https://tools.ietf.org/html/rfc7231#section-6.5.13",
-    "title": "Unsupported Media Type",
-    "status": 415,
-    "traceId": "|18eecd45-4efaefd271018fc0."
+    "id": 6,
+    "date": "2020-08-05T04:05:17",
+    "usd": 7.87,
+    "gtq": 1
 }
